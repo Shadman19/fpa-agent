@@ -1,0 +1,9 @@
+# Optional, but helps Spaces detect the SDK and Python version
+title: FP&A CFO Copilot (Streamlit)
+emoji: 📊
+colorFrom: blue
+colorTo: gray
+sdk: streamlit
+app_file: app.py
+pinned: false
+python_version: "3.11"

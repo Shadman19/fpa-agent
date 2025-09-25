@@ -1,0 +1,6 @@
+month,entity,account_c,amount,currency
+2025-06,ParentCo,Revenue,470000,USD
+2025-06,ParentCo,COGS,68000,USD
+2025-06,ParentCo,Opex:Sales,50000,USD
+2025-06,ParentCo,Opex:R&D,32000,USD
+2025-06,EMEA,Revenue,110000,EUR
